@@ -6,3 +6,8 @@ after push... changes one.
 after push ...changes two.
 
 in master .... chnages to master comit.
+B
+F
+D
+In branch 1 ....... Changes to Br1.commit .
+
